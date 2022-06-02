@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Gustavo Giusti</h1>
-<h3 align="center">A passionate Data Analyst from Brazil</h3>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+
+<p>Welcome to my page! </br> I'm Gustavo Giusti, Data Analyst from <b>Rio de Janeiro, Brazil</b>. </p>
 
 
 
