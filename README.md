@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gustavo Giusti</h1>
 <h3 align="center">A passionate Data Analyst from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavobgiusti&label=Profile%20views&color=0e75b6&style=flat" alt="gustavobgiusti" /> </p>
+
 
 - 🔭 I’m currently working at **Investmind as a Data Analyst**
 
@@ -27,3 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavobgiusti&show_icons=true&locale=en" alt="gustavobgiusti" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavobgiusti&label=Profile%20views&color=0e75b6&style=flat" alt="gustavobgiusti" /> </p>
