@@ -10,8 +10,6 @@
 
 - 👯 I’m looking to collaborate on **Data Science projects**
 
-- 📫 How to reach me: **gustavobgiusti@hotmail.com**
-
 - 📄 Know about my experiences: [https://www.linkedin.com/in/gustavobgiusti/](https://www.linkedin.com/in/gustavobgiusti/)
 
 - ⚡ Fun fact: **I am really into sports**
